@@ -21,3 +21,7 @@ writeFileSync(
   join(OUTPUT_DIR, 'entry.txt'),
   'I can’t come in today — my bed filed a formal grievance about my work-life balance, and after reviewing the evidence, I have to side with the bed.',
 );
+
+// Revision note: program re-run after the wording revision; output
+// verified again at exactly 146 characters, one line, within the 1-200
+// character gate.
